@@ -14,7 +14,3 @@ ptosim.pmLinearGenerator.theta_d_0 = 0;
 ptosim.pmLinearGenerator.lambda_sq_0 = 0;
 ptosim.pmLinearGenerator.lambda_sd_0 = ptosim.pmLinearGenerator.lambda_fd;
 ptosim.pmLinearGenerator.Rload = -117.6471;           % Load Resistance [ohm]
-
-
-
-

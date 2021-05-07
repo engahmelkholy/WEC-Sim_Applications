@@ -3,7 +3,7 @@ simu = simulationClass();
 simu.simMechanicsFile = 'RM3_DD_PTO.slx';      %Location of Simulink Model File with PTO-Sim                    
 simu.startTime = 0;                     
 simu.rampTime = 100;                       
-simu.endTime=400;   
+simu.endTime=200;   
 simu.dt = 0.001;                       
 
 %% Wave Information
